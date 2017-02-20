@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1e961d9-7b03-4d52-8261-374d6996fb31" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/app.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/config.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/run.py" />
-    </list>
+    <list default="true" id="e1e961d9-7b03-4d52-8261-374d6996fb31" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
