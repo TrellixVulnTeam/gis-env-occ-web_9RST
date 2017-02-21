@@ -1,0 +1,3 @@
+class Chemical:
+    pass
+
