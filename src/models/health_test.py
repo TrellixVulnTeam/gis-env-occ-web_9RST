@@ -1,0 +1,3 @@
+class HealthTest:
+    pass
+

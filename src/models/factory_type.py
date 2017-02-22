@@ -1,0 +1,2 @@
+class FactoryType:
+    pass

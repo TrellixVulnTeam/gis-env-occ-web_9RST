@@ -1,0 +1,3 @@
+class ChemicalBuy:
+    pass
+
